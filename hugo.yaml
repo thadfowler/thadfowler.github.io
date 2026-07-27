@@ -1,5 +1,5 @@
 baseURL: https://example.docsy.dev
-title: Goldydocs
+title: Thad Fowler
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu slugorcontentbasename
 
@@ -13,7 +13,7 @@ enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 
 # Will give values to .Lastmod etc.
-enableGitInfo: true
+enableGitInfo: false
 
 # Comment out to disable taxonomies in Docsy
 # disableKinds: [taxonomy]
@@ -50,33 +50,16 @@ permalinks:
 # Image processing configuration.
 imaging:
   resampleFilter: CatmullRom
+  quality: 75
+  anchor: smart
 
 # Language configuration
 languages:
   en:
-    label: English
-    title: Goldydocs
+    languageName: English
+    title: Thad Fowler
     params:
-      description: A Docsy example site
-  # cSpell:disable
-  no:
-    label: Norsk
-    contentDir: content/no
-    title: Gulldoks
-    params:
-      description: Docsy er operativsystem for skyen
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  fa:
-    direction: rtl
-    label: 'فارسی (Persian)'
-    contentDir: content/fa
-    title: 'اسناد گلدی'
-    params:
-      description: 'یک نمونه برای پوسته داکسی'
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
-  # cSpell:enable
+      description: Thad Fowler's website
 
 markup:
   goldmark:
@@ -110,7 +93,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: ""
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -127,13 +110,13 @@ params:
   # The version number for the version of the docs represented in this doc set.
   # Used in the "version-banner" partial to display a version number for the
   # current doc set.
-  version: 0.15.1-dev
+  version: 0.15.0
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_repo: https://github.com/google/docsy-example
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-  github_project_repo: https://github.com/google/docsy
+  github_project_repo: 
 
   # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""
@@ -153,9 +136,12 @@ params:
 
   copyright:
     authors: >-
-      Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2018
+      Thad Fowler <br> © 2018–present  Docsy Authors for the [Docsy](https://github.com/google/docsy) Hugo theme | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+    from_year: 2026
     to_year: present
+
+  # Side-nav tree starting point configuration
+  docsSection: docs
 
   # User interface configuration
   ui:
@@ -166,20 +152,22 @@ params:
     # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
     navbar_translucent_over_cover_disable: false
 
-    sidebar_menu_foldable: true
+    sidebar_menu_foldable: false
     # Enable to show the side bar menu in its compact state.
     sidebar_menu_compact: false
     # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-    sidebar_search_disable: false
+    sidebar_search_disable: true
     # Enable light/dark mode toggle menu in the navbar
     showLightDarkModeMenu: true
+    # Display a desired menu depth in the side-nav
+    ul_show: 3
 
     # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
     # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
     # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
     # add "hide_feedback: true" to the page's front matter.
     feedback:
-      enable: true
+      enable: false
       # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
       yes: >-
         Glad to hear it! Please <a
@@ -201,38 +189,34 @@ params:
   FA: <i class="fa-{1} fa-{2} text-{3} px-1"></i>
 
   links:
-    # End user relevant links. These will show up on left side of footer and in the community page if you have one.
+    # End user relevant links. These will show up on left side of footer and in the community page.
     user:
-      - name: User mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
-      - name: X
-        url: https://example.org/x
-        icon: fab fa-x-twitter
-        desc: Follow us on X to get the latest news!
-      - name: Stack Overflow
-        url: https://example.org/stack
-        icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
-    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+      - name: Instagram
+        url: https://www.instagram.com/thadfowler/
+        icon: fab fa-instagram
+        desc: Follow me on Instagram.
+      - name: Bluesky
+        url: https://bsky.app/profile/thadfowler.bsky.social
+        icon: fab fa-bluesky
+        desc: Follow me on Bluesky.
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/thad-fowler-3b4a3825/
+        icon: fab fa-linkedin
+        desc: Follow me on LinkedIn.
+    # Developer relevant links. These will show up on right side of footer and in the community page.
     developer:
       - name: Site info
         url: /site/
         icon: fa-solid fa-hammer
         desc: Site build information.
       - name: GitHub
-        url: https://github.com/google/docsy
+        url: https://github.com/thadfowler
         icon: fab fa-github
-        desc: Development takes place here!
-      - name: Slack
-        url: https://example.org/slack
-        icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discuss development issues around the project
+        desc: Development takes place here.
+      - name: GitLab
+        url: https://gitlab.com/thadfowler
+        icon: fab fa-gitlab
+        desc: Development happens on GitLab.
 
 security:
   funcs: # cspell:disable-line
@@ -245,7 +229,7 @@ module:
   # workspace: docsy.work
   hugoVersion:
     extended: true
-    min: 0.160.1
+    min: 0.157.0
   imports:
-    - path: github.com/google/docsy/theme
+    - path: github.com/google/docsy
       disable: false
