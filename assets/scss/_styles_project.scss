@@ -21,3 +21,11 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
     color: tint-color($primary, 80%) !important;
   }
 }
+
+// Hide links in the right navigation
+.td-page-meta__edit,
+.td-page-meta__child,
+.td-page-meta__issue,
+.td-page-meta__project-issue {
+  display: none !important;
+}
