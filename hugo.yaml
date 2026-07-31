@@ -43,6 +43,10 @@ outputFormats:
     mediaType: text/redirects
     root: true
 
+print:
+    baseName: print
+    mediaType: text/html
+
 # Configure how URLs look like per section.
 permalinks:
   blog: /:section/:year/:month/:day/:slugorcontentbasename
