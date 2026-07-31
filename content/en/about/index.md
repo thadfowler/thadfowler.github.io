@@ -102,7 +102,7 @@ For those interested in more about me, here are a few tidbits:
 
 - My educational grounding is broad:
     - In-depth study spanned international relations, economics, finance, foreign languages (French, Spanish, Japanese), literature, semiotics and other text-focused theory, creative writing, and pedagogy.
-    - My curiousity took me into additional domains like the visual arts and math as well. 
+    - My curiousity took me into additional areas like the visual arts and math as well. 
 - I taught college writing and literature early in my career.
 - I pivoted into work as a content specialist, editor, and manager within an instructional design/development team. In one way or another technical writing has factored into that work throughout and has only grown as an interest over time. 
 - Further details about my experience are available on my <a href="https://www.linkedin.com/in/thad-fowler-3b4a3825" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>.
