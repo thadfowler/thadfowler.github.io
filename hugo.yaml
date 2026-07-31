@@ -43,7 +43,7 @@ outputFormats:
     mediaType: text/redirects
     root: true
 
-print:
+  print:
     baseName: print
     mediaType: text/html
 
