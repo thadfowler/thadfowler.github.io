@@ -3,9 +3,8 @@ caseSensitive: true
 words:
   - chalin
   - docset
-  - docsy
+  - Docsy
   - errorf
-  - github
   - gohugoio
   - Goldydocs
   - pageinfo
