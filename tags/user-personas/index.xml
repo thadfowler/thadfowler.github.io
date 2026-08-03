@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>User Personas on Thad Fowler</title><link>https://thadfowler.github.io/tags/user-personas/</link><description>Recent content in User Personas on Thad Fowler</description><generator>Hugo</generator><language>en</language><atom:link href="https://thadfowler.github.io/tags/user-personas/index.xml" rel="self" type="application/rss+xml"/><item><title>Technical</title><link>https://thadfowler.github.io/docs/technical/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/</guid><description/></item><item><title>User personas</title><link>https://thadfowler.github.io/docs/technical/user-personas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/user-personas/</guid><description>&lt;p&gt;User personas provide a representation of a product or service&amp;rsquo;s users. Product development teams leverage these models to center their work on authentic human needs. Technical writers, for their part, develop personas to inform and heighten documentation&amp;rsquo;s user focus, improving users&amp;rsquo; experience with the product and fostering trust.&lt;/p&gt;
+&lt;p&gt;The following user personas, developed in a collaborative open-source project, show my attentiveness to user needs.&lt;/p&gt;
+&lt;h2 id="read-the-document"&gt;Read the document&lt;a class="td-heading-self-link" href="#read-the-document" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-12 col-md-8"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/octavia-user-personas-001.jpg"
+ alt="Screenshot of OCTAVIA user personas"
+ style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto 8px auto;" /&gt;
+ &lt;/p&gt;</description></item></channel></rss>

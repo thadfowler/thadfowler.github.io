@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How-To on Thad Fowler</title><link>https://thadfowler.github.io/tags/how-to/</link><description>Recent content in How-To on Thad Fowler</description><generator>Hugo</generator><language>en</language><atom:link href="https://thadfowler.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml"/><item><title>How-to doc sequence</title><link>https://thadfowler.github.io/docs/technical/how-to-doc-sequence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/how-to-doc-sequence/</guid><description>&lt;p&gt;How-to documents lead readers through a set of steps to achieve a specific goal. The following onboarding articles, which I published in Confluence for The Good Docs Project, provide an example of this type of documentation.&lt;/p&gt;
+&lt;h2 id="read-the-documents"&gt;Read the documents&lt;a class="td-heading-self-link" href="#read-the-documents" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/sign-up-for-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Sign up for GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/use-gitlab-to-find-your-first-task.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Use GitLab to find your first task (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/get-your-work-rolling-using-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Get your work rolling using GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/track-work-item-progress-in-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Track work item progress in GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;h2 id="background"&gt;Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Good Docs Project knowledge base team developed an onboarding guide to support new contributors. As a member of (and later a co-lead of) the team, I wrote this series to enable readers to:&lt;/p&gt;</description></item><item><title>Technical</title><link>https://thadfowler.github.io/docs/technical/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/</guid><description/></item></channel></rss>

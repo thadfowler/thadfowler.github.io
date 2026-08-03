@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technical Writing on Thad Fowler</title><link>https://thadfowler.github.io/categories/technical-writing/</link><description>Recent content in Technical Writing on Thad Fowler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://thadfowler.github.io/categories/technical-writing/index.xml" rel="self" type="application/rss+xml"/><item><title>Concept document</title><link>https://thadfowler.github.io/docs/technical/concept-doc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/concept-doc/</guid><description>&lt;p&gt;Concept documents bridge users&amp;rsquo; existing knowledge with the information they need to use a product. My &amp;ldquo;About Chronologue Relay P2P Protocols&amp;rdquo;—which appears on a website created with the Sphinx static site generator—models this type of documentation.&lt;/p&gt;
+&lt;h2 id="read-the-document"&gt;Read the document&lt;a class="td-heading-self-link" href="#read-the-document" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-12 col-md-8"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/about-chronologue-relay-p2p-protocols-001.jpg"
+ alt="Screenshot of About Chronologue Relay P2P Protocols"
+ style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto 8px auto;" /&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;
+On the Chronologue documentation site
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/about-chronologue-relay-p2p-protocols-collapsed.pdf" target="_blank" rel="noopener noreferrer"&gt;
+PDF copy, with subsections collapsed
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/about-chronologue-relay-p2p-protocols-expanded.pdf" target="_blank" rel="noopener noreferrer"&gt;
+PDF copy, with subsections expanded
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;h2 id="background"&gt;Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I wrote &amp;ldquo;About Chronologue Relay P2P Protocols&amp;rdquo; as a contributor to The Good Docs Project, an open-source project that offers templates and resources to advance documentation best practices.&lt;/p&gt;</description></item><item><title>How-to doc sequence</title><link>https://thadfowler.github.io/docs/technical/how-to-doc-sequence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/how-to-doc-sequence/</guid><description>&lt;p&gt;How-to documents lead readers through a set of steps to achieve a specific goal. The following onboarding articles, which I published in Confluence for The Good Docs Project, provide an example of this type of documentation.&lt;/p&gt;
+&lt;h2 id="read-the-documents"&gt;Read the documents&lt;a class="td-heading-self-link" href="#read-the-documents" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/sign-up-for-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Sign up for GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/use-gitlab-to-find-your-first-task.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Use GitLab to find your first task (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/get-your-work-rolling-using-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Get your work rolling using GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/track-work-item-progress-in-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Track work item progress in GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;h2 id="background"&gt;Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Good Docs Project knowledge base team developed an onboarding guide to support new contributors. As a member of (and later a co-lead of) the team, I wrote this series to enable readers to:&lt;/p&gt;</description></item><item><title>Technical</title><link>https://thadfowler.github.io/docs/technical/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/</guid><description/></item><item><title>User personas</title><link>https://thadfowler.github.io/docs/technical/user-personas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/user-personas/</guid><description>&lt;p&gt;User personas provide a representation of a product or service&amp;rsquo;s users. Product development teams leverage these models to center their work on authentic human needs. Technical writers, for their part, develop personas to inform and heighten documentation&amp;rsquo;s user focus, improving users&amp;rsquo; experience with the product and fostering trust.&lt;/p&gt;
+&lt;p&gt;The following user personas, developed in a collaborative open-source project, show my attentiveness to user needs.&lt;/p&gt;
+&lt;h2 id="read-the-document"&gt;Read the document&lt;a class="td-heading-self-link" href="#read-the-document" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-12 col-md-8"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/octavia-user-personas-001.jpg"
+ alt="Screenshot of OCTAVIA user personas"
+ style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto 8px auto;" /&gt;
+ &lt;/p&gt;</description></item><item><title>New release—"About Chronologue Relay P2P Protocols"</title><link>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</guid><description>&lt;p&gt;I&amp;rsquo;m pleased to share the publication of a new concept document:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;About Chronologue Relay P2P Protocols&lt;/a&gt;,&amp;rdquo; on the &lt;a href="https://chronologue.dev/" target="_blank" rel="noopener noreferrer"&gt;Chronologue documentation site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This doc shipped as part of The Good Docs Project&amp;rsquo;s Iron Release (1.6):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thegooddocsproject.dev/blog/release-iron" target="_blank" rel="noopener noreferrer"&gt;The Good Docs Project&amp;rsquo;s Iron release announcement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It models the The Good Docs Project&amp;rsquo;s Concept template in action. Access the template in GitLab:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gitlab.com/tgdp/templates#core-documentation-template-pack" target="_blank" rel="noopener noreferrer"&gt;Core documentation template pack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

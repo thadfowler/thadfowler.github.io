@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technical writing on Thad Fowler</title><link>https://thadfowler.github.io/blog/technical/</link><description>Recent content in Technical writing on Thad Fowler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://thadfowler.github.io/blog/technical/index.xml" rel="self" type="application/rss+xml"/><item><title>New release—"About Chronologue Relay P2P Protocols"</title><link>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</guid><description>&lt;p&gt;I&amp;rsquo;m pleased to share the publication of a new concept document:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;About Chronologue Relay P2P Protocols&lt;/a&gt;,&amp;rdquo; on the &lt;a href="https://chronologue.dev/" target="_blank" rel="noopener noreferrer"&gt;Chronologue documentation site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This doc shipped as part of The Good Docs Project&amp;rsquo;s Iron Release (1.6):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thegooddocsproject.dev/blog/release-iron" target="_blank" rel="noopener noreferrer"&gt;The Good Docs Project&amp;rsquo;s Iron release announcement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It models the The Good Docs Project&amp;rsquo;s Concept template in action. Access the template in GitLab:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gitlab.com/tgdp/templates#core-documentation-template-pack" target="_blank" rel="noopener noreferrer"&gt;Core documentation template pack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

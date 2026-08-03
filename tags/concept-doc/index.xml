@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Concept Doc on Thad Fowler</title><link>https://thadfowler.github.io/tags/concept-doc/</link><description>Recent content in Concept Doc on Thad Fowler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://thadfowler.github.io/tags/concept-doc/index.xml" rel="self" type="application/rss+xml"/><item><title>Concept document</title><link>https://thadfowler.github.io/docs/technical/concept-doc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/concept-doc/</guid><description>&lt;p&gt;Concept documents bridge users&amp;rsquo; existing knowledge with the information they need to use a product. My &amp;ldquo;About Chronologue Relay P2P Protocols&amp;rdquo;—which appears on a website created with the Sphinx static site generator—models this type of documentation.&lt;/p&gt;
+&lt;h2 id="read-the-document"&gt;Read the document&lt;a class="td-heading-self-link" href="#read-the-document" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-12 col-md-8"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/about-chronologue-relay-p2p-protocols-001.jpg"
+ alt="Screenshot of About Chronologue Relay P2P Protocols"
+ style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto 8px auto;" /&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;
+On the Chronologue documentation site
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/about-chronologue-relay-p2p-protocols-collapsed.pdf" target="_blank" rel="noopener noreferrer"&gt;
+PDF copy, with subsections collapsed
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/about-chronologue-relay-p2p-protocols-expanded.pdf" target="_blank" rel="noopener noreferrer"&gt;
+PDF copy, with subsections expanded
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;h2 id="background"&gt;Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I wrote &amp;ldquo;About Chronologue Relay P2P Protocols&amp;rdquo; as a contributor to The Good Docs Project, an open-source project that offers templates and resources to advance documentation best practices.&lt;/p&gt;</description></item><item><title>Technical</title><link>https://thadfowler.github.io/docs/technical/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/</guid><description/></item><item><title>New release—"About Chronologue Relay P2P Protocols"</title><link>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</guid><description>&lt;p&gt;I&amp;rsquo;m pleased to share the publication of a new concept document:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;About Chronologue Relay P2P Protocols&lt;/a&gt;,&amp;rdquo; on the &lt;a href="https://chronologue.dev/" target="_blank" rel="noopener noreferrer"&gt;Chronologue documentation site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This doc shipped as part of The Good Docs Project&amp;rsquo;s Iron Release (1.6):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thegooddocsproject.dev/blog/release-iron" target="_blank" rel="noopener noreferrer"&gt;The Good Docs Project&amp;rsquo;s Iron release announcement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It models the The Good Docs Project&amp;rsquo;s Concept template in action. Access the template in GitLab:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gitlab.com/tgdp/templates#core-documentation-template-pack" target="_blank" rel="noopener noreferrer"&gt;Core documentation template pack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

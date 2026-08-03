@@ -1,1 +1,0 @@
-This project does not accept external contributions.

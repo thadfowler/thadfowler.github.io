@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thad Fowler</title><link>https://thadfowler.github.io/</link><description>Recent content on Thad Fowler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://thadfowler.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Concept document</title><link>https://thadfowler.github.io/docs/technical/concept-doc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/concept-doc/</guid><description>&lt;p&gt;Concept documents bridge users&amp;rsquo; existing knowledge with the information they need to use a product. My &amp;ldquo;About Chronologue Relay P2P Protocols&amp;rdquo;—which appears on a website created with the Sphinx static site generator—models this type of documentation.&lt;/p&gt;
+&lt;h2 id="read-the-document"&gt;Read the document&lt;a class="td-heading-self-link" href="#read-the-document" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-12 col-md-8"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/about-chronologue-relay-p2p-protocols-001.jpg"
+ alt="Screenshot of About Chronologue Relay P2P Protocols"
+ style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto 8px auto;" /&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;
+On the Chronologue documentation site
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/about-chronologue-relay-p2p-protocols-collapsed.pdf" target="_blank" rel="noopener noreferrer"&gt;
+PDF copy, with subsections collapsed
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/about-chronologue-relay-p2p-protocols-expanded.pdf" target="_blank" rel="noopener noreferrer"&gt;
+PDF copy, with subsections expanded
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;h2 id="background"&gt;Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I wrote &amp;ldquo;About Chronologue Relay P2P Protocols&amp;rdquo; as a contributor to The Good Docs Project, an open-source project that offers templates and resources to advance documentation best practices.&lt;/p&gt;</description></item><item><title>Novel—The Taste of Fruit Not Eaten</title><link>https://thadfowler.github.io/docs/imaginative/novel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/imaginative/novel/</guid><description>&lt;div class="alert alert-success" role="alert"&gt;
+&lt;p&gt;The &lt;em&gt;Taste of Fruit Not Eaten&lt;/em&gt; is forthcoming from &lt;a href="https://runningwildpublishing.com/" target="_blank" rel="noopener noreferrer"&gt; Running Wild Press&lt;/a&gt; in &lt;strong&gt;fall 2027&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more info!&lt;/p&gt;
+&lt;/div&gt;</description></item><item><title>How-to doc sequence</title><link>https://thadfowler.github.io/docs/technical/how-to-doc-sequence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/how-to-doc-sequence/</guid><description>&lt;p&gt;How-to documents lead readers through a set of steps to achieve a specific goal. The following onboarding articles, which I published in Confluence for The Good Docs Project, provide an example of this type of documentation.&lt;/p&gt;
+&lt;h2 id="read-the-documents"&gt;Read the documents&lt;a class="td-heading-self-link" href="#read-the-documents" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/sign-up-for-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Sign up for GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/use-gitlab-to-find-your-first-task.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Use GitLab to find your first task (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/get-your-work-rolling-using-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Get your work rolling using GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://thadfowler.github.io/docs/track-work-item-progress-in-gitlab.pdf" target="_blank" rel="noopener noreferrer"&gt;
+Track work item progress in GitLab (PDF)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/a&gt;
+&lt;h2 id="background"&gt;Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Good Docs Project knowledge base team developed an onboarding guide to support new contributors. As a member of (and later a co-lead of) the team, I wrote this series to enable readers to:&lt;/p&gt;</description></item><item><title>Short pieces</title><link>https://thadfowler.github.io/docs/imaginative/short-fiction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/imaginative/short-fiction/</guid><description>&lt;h2 id="recent-work"&gt;Recent work&lt;a class="td-heading-self-link" href="#recent-work" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-header"&gt;
+ &lt;strong&gt;In &lt;em&gt;3:AM Magazine&lt;/em&gt;:&lt;/strong&gt;&lt;br&gt;“Speaking in Prosthetic Tongues”
+ &lt;/div&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/thad-fowler-speaking-in-prosthetic-tongues.jpg" alt="Screenshot of Speaking in Prosthetic Tongues in 3:AM Magazine" style="width:100%; height:auto; display:block; margin-bottom:8px;" /&gt;
+
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="card-footer"&gt;
+ &lt;a href="https://www.3ammagazine.com/3am/speaking-in-prosthetic-tongues/"&gt;Read the story.&lt;/a&gt;&lt;/div&gt;
+ &lt;/div&gt;
+
+
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-header"&gt;
+ &lt;strong&gt;In &lt;em&gt;A Thin Slice of Anxiety&lt;/em&gt;:&lt;/strong&gt;&lt;br&gt;“The Sphinx in the Mirror”
+ &lt;/div&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+
+ &lt;img src="https://thadfowler.github.io/images/thad-fowler-sphinx-in-the-mirror.jpg" alt="Screenshot of The Sphinx in the Mirror in the publication A Thin Slice Of Anxiety" style="width:100%; height:auto; display:block; margin-bottom:8px;" /&gt;
+
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="card-footer"&gt;
+ &lt;a href="https://www.athinsliceofanxiety.com/2026/03/fiction-sphinx-in-mirror.html"&gt;Read the story.&lt;/a&gt;&lt;/div&gt;
+ &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="earlier-work"&gt;Earlier work&lt;a class="td-heading-self-link" href="#earlier-work" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Earlier work of mine appeared in:&lt;/p&gt;</description></item><item><title>User personas</title><link>https://thadfowler.github.io/docs/technical/user-personas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/docs/technical/user-personas/</guid><description>&lt;p&gt;User personas provide a representation of a product or service&amp;rsquo;s users. Product development teams leverage these models to center their work on authentic human needs. Technical writers, for their part, develop personas to inform and heighten documentation&amp;rsquo;s user focus, improving users&amp;rsquo; experience with the product and fostering trust.&lt;/p&gt;
+&lt;p&gt;The following user personas, developed in a collaborative open-source project, show my attentiveness to user needs.&lt;/p&gt;
+&lt;h2 id="read-the-document"&gt;Read the document&lt;a class="td-heading-self-link" href="#read-the-document" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="row"&gt;
+ &lt;div class="col-12 col-md-8"&gt;
+ &lt;div class="td-card card border me-4"&gt;
+&lt;div class="card-body"&gt;
+ &lt;p class="card-text"&gt;
+ 
+ &lt;img src="https://thadfowler.github.io/images/octavia-user-personas-001.jpg"
+ alt="Screenshot of OCTAVIA user personas"
+ style="max-width:400px; width:100%; height:auto; display:block; margin:0 auto 8px auto;" /&gt;
+ &lt;/p&gt;</description></item><item><title>New release—"About Chronologue Relay P2P Protocols"</title><link>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/06/12/about-chronologue-relay-p2p-protocols/</guid><description>&lt;p&gt;I&amp;rsquo;m pleased to share the publication of a new concept document:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href="https://chronologue.dev/zaius_inc./concept_chronologue-relay-p2p-protocols" target="_blank" rel="noopener noreferrer"&gt;About Chronologue Relay P2P Protocols&lt;/a&gt;,&amp;rdquo; on the &lt;a href="https://chronologue.dev/" target="_blank" rel="noopener noreferrer"&gt;Chronologue documentation site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This doc shipped as part of The Good Docs Project&amp;rsquo;s Iron Release (1.6):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thegooddocsproject.dev/blog/release-iron" target="_blank" rel="noopener noreferrer"&gt;The Good Docs Project&amp;rsquo;s Iron release announcement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It models the The Good Docs Project&amp;rsquo;s Concept template in action. Access the template in GitLab:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gitlab.com/tgdp/templates#core-documentation-template-pack" target="_blank" rel="noopener noreferrer"&gt;Core documentation template pack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>New release—"The Sphinx in the Mirror"</title><link>https://thadfowler.github.io/blog/2026/03/04/sphinx/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/03/04/sphinx/</guid><description>&lt;p&gt;My piece “The Sphinx in the Mirror” is running in &lt;em&gt;A Thin Slice of Anxiety&lt;/em&gt;. &lt;a href="https://www.athinsliceofanxiety.com/2026/03/fiction-sphinx-in-mirror.html" target="_blank" rel="noopener noreferrer"&gt;Take a peek&lt;/a&gt;.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 510px"&gt;
+&lt;img class="card-img-top" src="https://thadfowler.github.io/blog/2026/03/04/sphinx/thad-fowler-sphinx-in-the-mirror_hu_99efb802eb345825.jpg" width="500" height="317"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
+
+
+
+"The Sphinx in the Mirror" in A Thin Slice of Anxiety
+
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Screenshot of A Thin Slice of Anxiety&lt;/small&gt;
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description></item><item><title>New release—"Speaking in Prosthetic Tongues"</title><link>https://thadfowler.github.io/blog/2026/02/09/speaking/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/02/09/speaking/</guid><description>&lt;p&gt;Check out my story “Speaking in Prosthetic Tongues” in &lt;a href="https://www.3ammagazine.com/3am/speaking-in-prosthetic-tongues/" target="_blank" rel="noopener noreferrer"&gt;&lt;em&gt;3:AM Magazine&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 510px"&gt;
+&lt;img class="card-img-top" src="https://thadfowler.github.io/blog/2026/02/09/speaking/thad-fowler-speaking-in-prosthetic-tongues_hu_604c3e853e1c1b10.jpg" width="500" height="523"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
+
+
+
+"Speaking in Prosthetic Tongues"
+
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Screenshot of 3:AM Magazine&lt;/small&gt;
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description></item><item><title>On the horizon . . .</title><link>https://thadfowler.github.io/blog/2026/01/01/coming-soon/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/blog/2026/01/01/coming-soon/</guid><description>&lt;p&gt;Exciting news! My novel &lt;em&gt;The Taste of Fruit Not Eaten&lt;/em&gt; will be published by &lt;a href="https://runningwildpublishing.com/" target="_blank" rel="noopener noreferrer"&gt;Running Wild Press&lt;/a&gt;. Stay tuned for details.&lt;/p&gt;</description></item><item><title>About</title><link>https://thadfowler.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/about/</guid><description>&lt;link rel="preload" as="image" href="https://thadfowler.github.io/about/thad-fowler-background_hu_cdb5caebdf9f04c0.jpg" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://thadfowler.github.io/about/thad-fowler-background_hu_dda32f53a3d125ed.jpg" media="(min-width: 1200px)"&gt;
+&lt;style&gt;
+#td-cover-block-0 {
+ background-image: url(/about/thad-fowler-background_hu_cdb5caebdf9f04c0.jpg);
+}
+@media only screen and (min-width: 1200px) {
+ #td-cover-block-0 {
+ background-image: url(/about/thad-fowler-background_hu_dda32f53a3d125ed.jpg);
+ }
+}
+&lt;/style&gt;
+&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto td-below-navbar js-td-cover td-overlay td-overlay--dark -bg-dark" &gt;
+ &lt;div class="col-12"&gt;
+ &lt;div class="container td-overlay__inner"&gt;
+ &lt;div class="text-center"&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;Welcome!&lt;/h1&gt;
+ &lt;div class="pt-3 lead"&gt;
+&lt;!-- prettier-ignore --&gt;
+&lt;p class="display-6"&gt;I&amp;rsquo;m Thad.&lt;/p&gt;
+&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-1" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--white position-relative td-box--height-auto"&gt;
+&lt;div class="col-12"&gt;
+&lt;div class="container text-center td-arrow-down"&gt;
+&lt;div class="h4 mb-0"&gt;
+&lt;p&gt;&lt;img src="https://thadfowler.github.io/about/thad-fowler-1.jpg" alt="Thad Fowler" title="Thad Fowler"&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;On this site, I spotlight my fiction and technical writing—two pursuits driven by my love of text.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-2" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--2 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="container"&gt;
+&lt;h2 id="novelthe-taste-of-fruit-not-eaten"&gt;Novel—&lt;em&gt;The Taste of Fruit Not Eaten&lt;/em&gt;&lt;a class="td-heading-self-link" href="#novelthe-taste-of-fruit-not-eaten" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In fiction, the extraordinary is within grasp, and my intention as a creative person is to seize it. Why limit our experience to the world as we see it when so much more is possible? &lt;a href="https://thadfowler.github.io/docs/imaginative/novel/" style="color:#111827;"&gt;&lt;em&gt;The Taste of Fruit Not Eaten&lt;/em&gt;&lt;/a&gt; is my most developed imaginative expression to that end and more. It&amp;rsquo;s forthcoming from Running Wild Press, and I&amp;rsquo;d be delighted if you check it out.&lt;/p&gt;</description></item><item><title>Connect</title><link>https://thadfowler.github.io/connect/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/connect/</guid><description>&lt;div&gt;&lt;a id="td-block-0" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--white position-relative td-box--height-auto"&gt;
+&lt;div class="col-12"&gt;
+&lt;div class="container text-center td-arrow-down"&gt;
+&lt;div class="h4 mb-0"&gt;
+&lt;h1 id="connect"&gt;Connect&lt;a class="td-heading-self-link" href="#connect" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-1" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--1 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="row text-center"&gt;
+&lt;h3 id="follow-me-on-social-media"&gt;Follow me on social media:&lt;a class="td-heading-self-link" href="#follow-me-on-social-media" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://thadfowler.github.io/connect/icon-instagram-48.png" alt="Instagram" title="Instagram"&gt;
+&lt;a href="https://www.instagram.com/thadfowler/" target="_blank" rel="noopener noreferrer"&gt;
+Instagram
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://thadfowler.github.io/connect/icon-bluesky-logo-48.png" alt="Bluesky" title="Bluesky"&gt;
+&lt;a href="https://bsky.app/profile/thadfowler.bsky.social" target="_blank" rel="noopener noreferrer"&gt;
+Bluesky
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://thadfowler.github.io/connect/icon-linkedin-logo-50.png" alt="LinkedIn" title="LinkedIn"&gt;
+&lt;a href="https://www.linkedin.com/in/thad-fowler-3b4a3825/" target="_blank" rel="noopener noreferrer"&gt;
+LinkedIn
+&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="im-also-on"&gt;I&amp;rsquo;m also on:&lt;a class="td-heading-self-link" href="#im-also-on" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://thadfowler.github.io/connect/icon-github-50.png" alt="GitHub" title="GitHub"&gt;
+&lt;a href="https://github.com/thadfowler" target="_blank" rel="noopener noreferrer"&gt;
+GitHub
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://thadfowler.github.io/connect/icon-gitlab-48.png" alt="GitLab" title="GitLab"&gt;
+&lt;a href="https://gitlab.com/thadfowler" target="_blank" rel="noopener noreferrer"&gt;
+GitLab
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-2" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--2 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="row text-center"&gt;
+&lt;h3 id="see-also"&gt;See also&lt;a class="td-heading-self-link" href="#see-also" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in me, you may want to check out:&lt;/p&gt;
+&lt;h5 id="the-art-of-michiko-fujii-fowler"&gt;&lt;a href="https://www.michikofujiifowler.com/" target="_blank" rel="noopener noreferrer" style="color:#111827;"&gt; The art of Michiko Fujii Fowler &lt;/a&gt;&lt;a class="td-heading-self-link" href="#the-art-of-michiko-fujii-fowler" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;My wife&amp;rsquo;s work amazes me.&lt;/p&gt;</description></item><item><title>Search Results</title><link>https://thadfowler.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/search/</guid><description/></item><item><title>Website information</title><link>https://thadfowler.github.io/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/site/</guid><description>&lt;p&gt;Site built with &lt;a href="https://github.com/google/docsy/releases/v0.15.0"&gt;&lt;span class="badge bg-primary text-bg-primary fs-6"&gt;Docsy
+v0.15.0 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="build-information"&gt;Build information&lt;a class="td-heading-self-link" href="#build-information" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Netlify build information:&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Attribute&lt;/th&gt;
+					&lt;th&gt;Value&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Netlify built&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Deploy context&lt;/td&gt;
+					&lt;td&gt;local&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;script&gt;
+document.addEventListener("DOMContentLoaded", function() {
+ var options = { hour: '2-digit', hour12: false, minute: '2-digit', timeZoneName: 'short' };
+ var buildDate = new Date("2026-08-03T00:08:27Z");
+ document.getElementById("local-time").innerText = buildDate.toLocaleString(undefined, options);
+});
+&lt;/script&gt;</description></item></channel></rss>
