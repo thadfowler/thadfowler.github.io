@@ -247,31 +247,4 @@ GitLab
 &lt;p&gt;If you&amp;rsquo;re interested in me, you may want to check out:&lt;/p&gt;
 &lt;h5 id="the-art-of-michiko-fujii-fowler"&gt;&lt;a href="https://www.michikofujiifowler.com/" target="_blank" rel="noopener noreferrer" style="color:#111827;"&gt; The art of Michiko Fujii Fowler &lt;/a&gt;&lt;a class="td-heading-self-link" href="#the-art-of-michiko-fujii-fowler" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h5&gt;
 &lt;p&gt;My wife&amp;rsquo;s work amazes me.&lt;/p&gt;</description></item><item><title>Search Results</title><link>https://thadfowler.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/search/</guid><description/></item><item><title>Website information</title><link>https://thadfowler.github.io/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thadfowler.github.io/site/</guid><description>&lt;p&gt;Site built with &lt;a href="https://github.com/google/docsy/releases/v0.15.0"&gt;&lt;span class="badge bg-primary text-bg-primary fs-6"&gt;Docsy
-v0.15.0 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="build-information"&gt;Build information&lt;a class="td-heading-self-link" href="#build-information" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Netlify build information:&lt;/p&gt;
-&lt;table&gt;
-	&lt;thead&gt;
-			&lt;tr&gt;
-					&lt;th&gt;Attribute&lt;/th&gt;
-					&lt;th&gt;Value&lt;/th&gt;
-			&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-			&lt;tr&gt;
-					&lt;td&gt;Netlify built&lt;/td&gt;
-					&lt;td&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;Deploy context&lt;/td&gt;
-					&lt;td&gt;local&lt;/td&gt;
-			&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;script&gt;
-document.addEventListener("DOMContentLoaded", function() {
- var options = { hour: '2-digit', hour12: false, minute: '2-digit', timeZoneName: 'short' };
- var buildDate = new Date("2026-08-03T00:09:49Z");
- document.getElementById("local-time").innerText = buildDate.toLocaleString(undefined, options);
-});
-&lt;/script&gt;</description></item></channel></rss>
+v0.15.0 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
