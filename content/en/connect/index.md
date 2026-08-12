@@ -52,7 +52,7 @@ If you're interested in me, you may want to check out:
 My wife's work amazes me.
 
 ##### <a href="https://www.thegooddocsproject.dev/" target="_blank" rel="noopener noreferrer" style="color:#111827;"> The Good Docs Project </a>
-A technical documentation open-source project that I contribute to as a writer and working group co-lead.
+A technical documentation open-source project that I contribute to as a writer and working group co-lead. I also serve on the project steering committee.
 
 ##### <a href="https://earcommunity.org/" target="_blank" rel="noopener noreferrer" style="color:#111827;"> Ear Community and Ally's Act </a>
 Ear Community provides support for individuals and families like mine touched by microtia/anotia and aural atrasia. It also advocates for Ally's Act, a U.S. federal bill aimed at ensuring insurance coverage for osseointegrated (bone-conducting) hearing devices.
